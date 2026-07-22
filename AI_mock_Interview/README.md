@@ -207,6 +207,3 @@ B.Tech AI & Data Science | PSR Engineering College
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
