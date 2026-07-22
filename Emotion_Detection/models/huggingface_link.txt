@@ -1,0 +1,2 @@
+repo_id ="Nikitha2525/Emotion_Detection",
+    filename="Emotion.pth"
